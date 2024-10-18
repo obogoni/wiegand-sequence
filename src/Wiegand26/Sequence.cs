@@ -88,7 +88,7 @@ public class Sequence
 
     public static class Errors
     {
-        public const string YouRanOutOfCards = "Theres no more cards left";
+        public const string YouRanOutOfCards = "There's no more cards left";
 
         public const string InvalidLongForWiegand = "Long value is invalid for wiegand parsing";
     }
